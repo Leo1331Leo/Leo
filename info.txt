@@ -6,7 +6,7 @@ https://git-scm.com - клиент Гид который создаёт поль
 Для того чтобы глянуть хелп по команде пишем git help config
 
 Создание пользователя:
-1) git config --global user.name "Leo"
+1) git config --global user.name "Leo" (Leo1331Leo)
 2) git config --global user.email "liony1331@ukr.net"
 Вывод конфигов настроек git config --list -вывод всех
 
@@ -21,4 +21,13 @@ git status -выводит информацыю состояния всегда 
 1) git add . //добавляем файл регистрацию изменений
 2) git commit -m "Название второй точки сохранения" //проеведения изменения
 
-Создаем глобальный репозиторий на сайте
+Создаем глобальный репозиторий на сайте https://github.com
+заходим на сайт в https://github.com.new и создаем репозиторий
+
+КОМАНДЫ ДОБАВЛЕНИЯ ФАЙЛОВ С ГЛОБ РЕПИОЗИТОРИЯ
+
+1) КОМАНДА СГЕНЕРИРОВАНА НА САЙТЕ
+git remote add origin https://github.com/Leo1331Leo/Leo.git
+git push -u origin master
+
+2)
